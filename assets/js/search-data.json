@@ -4,9 +4,9 @@
         "post0": {
             "title": "Hello World",
             "content": "Interesting papers . Clinical success rates Very in-depth study into what factors contribute to a drug being approved. . | Bidrectional genetic genes with both GoF and LoF mutations are 4x more likely the become drug targets (when one would assume they would only be 2x more likely). . | Revision of the seminal paper showing targets with genetic evidence are more likely to be approved. . | Paper using correlation-based diffusion through an PPI network, using DEGs as seeds. Diffused genes are more highly correlated with perturbed gene in respective study. . | Great chemoinformatics blog (where this blog gets it&#39;s namesake) . | Another great chemoinformatics blog. . | . Project ideas . Standardised FAERS data | Could build a model to predict odds ratio, imputing missing drug/phenotype pairs | After mapping drugs to direction (inhibit/activate) and target, one could see which protein level changes have affect on the phenotype. | .",
-            "url": "https://finlayiainmaclean.github.io/blog/jupyter/2021/10/05/hello_world.html",
-            "relUrl": "/jupyter/2021/10/05/hello_world.html",
-            "date": " • Oct 5, 2021"
+            "url": "https://finlayiainmaclean.github.io/blog/jupyter/2021/10/06/hello_world.html",
+            "relUrl": "/jupyter/2021/10/06/hello_world.html",
+            "date": " • Oct 6, 2021"
         }
         
     
